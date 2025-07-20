@@ -1,7 +1,7 @@
 # video-chat-social-app
 Real-time video calling, chatting, and social app for language learners to connect and practice.
 
-# 📹 video-chat-social-app
+# video-chat-social-app
 
 A real-time video calling, chatting, and social app built to help users connect and practice languages based on what they know and want to learn.
 
